@@ -1,0 +1,16 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "API Controle de notas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "winston": "^3.3.3"
+  },
+  "type": "module"
+}
